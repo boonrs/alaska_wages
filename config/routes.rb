@@ -1,4 +1,4 @@
-Rails3BootstrapDeviseCancan::Application.routes.draw do
+AlaskaWages::Application.routes.draw do
   resources :wages do
     member do
       get :update
