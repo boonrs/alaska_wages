@@ -19,3 +19,4 @@ class WagesController < ApplicationController
     end
   end
 end
+
